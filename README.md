@@ -192,12 +192,14 @@ I'm especially interested in projects around:
 
 ---
 
-## GitHub Stats
+## GitHub Snapshot
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=bkrbzdgn40&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkrbzdgn40&layout=compact&theme=tokyonight" height="160" />
-</p>
+Instead of relying on unstable external stat cards, this profile highlights the work directly:
+
+- [PEA](https://github.com/bkrbzdgn40/pea) → AI-assisted mobile exercise analysis
+- [Drowsiness_Detector](https://github.com/bkrbzdgn40/Drowsiness_Detector) → Android-based computer vision and driver safety workflow
+- [server](https://github.com/bkrbzdgn40/server) → Spring Boot backend for incident and fleet operations
+- [GitHub Profile](https://github.com/bkrbzdgn40) → Full repository list and current activity
 
 ---
 
